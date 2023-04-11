@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "6cdbff2406031942",
+    "type": "split",
+    "children": [
+      {
+        "id": "086ba815e8db09a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "024edadc7a0fbe4e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Эпизоды/Episode_1_Гоблинские_стрелы.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b9d9cb65d0e5f05f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_Помощь/Help_Episode_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4bb2bee0db14e654",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Эпизоды/Episode_2_Фандалин.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "48bba7f422cfe453",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_Помощь/Help_Episode_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f3cde98414c56098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_NPC/NPC_Ярно_Альбрека.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "843c731679cb0084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76324c024f451c4f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "8_Разное/Карта_Убежища_Каменных_Пастей.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a977aa0af0060a13",
+    "type": "split",
+    "children": [
+      {
+        "id": "49bc2e20bb58b7c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27bb004e9c126f42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1716f81475a55da7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e718de60fd37c97d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d7fdb60a3bb46fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "82c87ce4d5aada10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fa7c2a48df44c83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1_Эпизоды/Episode_1_Гоблинские_стрелы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "570d012e1bfcd1e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1_Эпизоды/Episode_1_Гоблинские_стрелы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01029022a0667d3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd27df1f053099aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1_Эпизоды/Episode_1_Гоблинские_стрелы.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "024edadc7a0fbe4e",
+  "lastOpenFiles": [
+    "0_Помощь/Help_Episode_1.md",
+    "1_Эпизоды/Episode_2_Фандалин.md",
+    "0_Помощь/Help_Episode_2.md",
+    "4_NPC/NPC_Ярно_Альбрека.md",
+    "9_Файлы/Картинка_Дороги.png",
+    "1_Эпизоды/Episode_1_Гоблинские_стрелы.md",
+    "8_Разное/Карта_гоблинской_засады.jpg",
+    "8_Разное/Карта_Гоблинская_засада.jpg",
+    "4_NPC/NPC_Сестра_Гараэль.md",
+    "4_NPC/NPC_Кларг.md",
+    "4_NPC/NPC_Грол.md",
+    "0_Помощь/Help_Разное.md",
+    "5_Существа/Creature_Обыватель.md",
+    "9_Файлы",
+    "5_Существа/Creature_Красноклейменный_головорез.md",
+    "5_Существа/Creature_Волк.md",
+    "5_Существа/Creature_Багбир(Медвежатник).md",
+    "5_Существа/Creature_Гоблин.md",
+    "0_Помощь/Help_Начало.md",
+    "4_NPC/NPC_Сильдар_Холлвинтер.md",
+    "0_Помощь/Help_Бои.md",
+    "8_Разное/Карта_Убежища_Каменных_Пастей.png",
+    "4_NPC/NPC_Гандрен_Роксикер.md",
+    "4_NPC/NPC_Линен_Грейвинд.md",
+    "2_Локации/Location_Невервинтер.md",
+    "8_Разное/Карта_Местности.pdf",
+    "4_NPC/NPC_Эльмар_Бартен.md",
+    "4_NPC/NPC_Черный_паук.md",
+    "2_Локации/Location_Фандалин.md",
+    "8_Разное",
+    "6_Предметы",
+    "5_Существа",
+    "4_NPC",
+    "3_Квесты",
+    "2_Локации",
+    "1_Эпизоды",
+    "0_Помощь",
+    "Без названия.md"
+  ]
+}

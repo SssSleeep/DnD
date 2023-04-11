@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "0c26a4f6b47b2238",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d01afe93374a32b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2516472af7dedc88",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_Помощь/Help_Episode_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "373bf87b26ba597d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_Эпизоды/Episode_1_Гринест_в_огне.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "1aac402faffeb237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e5de01b1b7abba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_Существа/Creature_Культист.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a87aa1f3f1628947",
+    "type": "split",
+    "children": [
+      {
+        "id": "2547b8600a4029f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d721d403927824f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33cc78ac636de99c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb20175eec960abd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfdd8f40cf9c3d19",
+    "type": "split",
+    "children": [
+      {
+        "id": "7df746dbcfe299de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51eaa73c5e4ae426",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4_Существа/Creature_Культист.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb114941c9f76306",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4_Существа/Creature_Культист.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4a56a19e43b098a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9682e2cefe482a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4_Существа/Creature_Культист.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b1e5de01b1b7abba",
+  "lastOpenFiles": [
+    "0_Помощь/Help_Episode_1.md",
+    "0_Помощь/Help_Episode_1_BattleHelper.md",
+    "Без названия.canvas",
+    "4_Существа/Creature_Культист.md",
+    "4_Существа/Creature_Охотничий_Дрейк.md",
+    "4_Существа/Creature_Стражник.md",
+    "4_Существа/Creature_Собака.md",
+    "4_Существа/Creature_Наемник.md",
+    "4_Существа/Creature_Аколит.md",
+    "0_Эпизоды/Episode_1_Гринест_в_огне.md",
+    "4_Существа/Creature_Обыватель.md",
+    "3_NPC/NPC_Лангдедроса_Цианврас.md",
+    "4_Существа/Creature_Кобольд.md",
+    "3_NPC/NPC_Губернатор_Найтхилл.md",
+    "0_Помощь/Украденных Сокровищ.md",
+    "3_NPC/NPC_Кастелян_Эскоберт_Рыжий.md",
+    "4_Существа/Creature_Обычный.md",
+    "0_Помощь",
+    "5_Списки_Существ",
+    "2_Квесты/Quest_Спасение Города Гринест.md",
+    "3_NPC/NPC_Леосин_Эрлантар.md",
+    "Pasted image 20221211205525.png",
+    "Pasted image 20221221011046.png",
+    "Pasted image 20221209024519.png",
+    "6_СписокСуществ/List.md",
+    "0_Эпизоды/Episode_8_Замок_в_облаках.md"
+  ]
+}
