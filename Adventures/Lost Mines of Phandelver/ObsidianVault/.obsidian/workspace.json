@@ -69,13 +69,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_NPC/NPC_Ярно_Альбрека.md",
+                "file": "4_NPC/NPC_Кларг.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9915af74a300ef52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_NPC/NPC_Веномфанг.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c96f4713a86732fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Существа/Creature_Молодой_зеленый_дракон.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2d8462408c3ad57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_NPC/NPC_Кларг.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "843c731679cb0084",
@@ -157,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Эпизоды/Episode_1_Гоблинские_стрелы.md",
+                "file": "4_NPC/NPC_Кларг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Эпизоды/Episode_1_Гоблинские_стрелы.md",
+                "file": "4_NPC/NPC_Кларг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Эпизоды/Episode_1_Гоблинские_стрелы.md"
+                "file": "4_NPC/NPC_Кларг.md"
               }
             }
           }
@@ -218,19 +255,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "024edadc7a0fbe4e",
+  "active": "d2d8462408c3ad57",
   "lastOpenFiles": [
     "0_Помощь/Help_Episode_1.md",
     "1_Эпизоды/Episode_2_Фандалин.md",
+    "6_Предметы/Item_Рассекатель.md",
+    "5_Существа/Creature_Молодой_зеленый_дракон.md",
+    "4_NPC/NPC_Веномфанг.md",
+    "4_NPC/NPC_Кларг.md",
+    "4_NPC/NPC_Грол.md",
+    "4_NPC/NPC_Гандрен_Роксикер.md",
+    "1_Эпизоды/Episode_1_Гоблинские_стрелы.md",
     "0_Помощь/Help_Episode_2.md",
     "4_NPC/NPC_Ярно_Альбрека.md",
     "9_Файлы/Картинка_Дороги.png",
-    "1_Эпизоды/Episode_1_Гоблинские_стрелы.md",
     "8_Разное/Карта_гоблинской_засады.jpg",
     "8_Разное/Карта_Гоблинская_засада.jpg",
     "4_NPC/NPC_Сестра_Гараэль.md",
-    "4_NPC/NPC_Кларг.md",
-    "4_NPC/NPC_Грол.md",
     "0_Помощь/Help_Разное.md",
     "5_Существа/Creature_Обыватель.md",
     "9_Файлы",
@@ -242,7 +283,6 @@
     "4_NPC/NPC_Сильдар_Холлвинтер.md",
     "0_Помощь/Help_Бои.md",
     "8_Разное/Карта_Убежища_Каменных_Пастей.png",
-    "4_NPC/NPC_Гандрен_Роксикер.md",
     "4_NPC/NPC_Линен_Грейвинд.md",
     "2_Локации/Location_Невервинтер.md",
     "8_Разное/Карта_Местности.pdf",
@@ -256,7 +296,6 @@
     "3_Квесты",
     "2_Локации",
     "1_Эпизоды",
-    "0_Помощь",
-    "Без названия.md"
+    "0_Помощь"
   ]
 }
