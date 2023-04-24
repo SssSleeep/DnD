@@ -44,21 +44,13 @@
           {
             "id": "76324c024f451c4f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "4_NPC/NPC_Сильдар_Холлвинтер.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87484d71f18250e9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+                "file": "9_Файлы/Карта_Фандалин.png"
+              },
+              "pinned": true
             }
           },
           {
@@ -67,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Существа/Creature_Красноклейменный_головорез.md",
+                "file": "5_Существа/Creature_Нотик.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5_Существа/Creature_Нотик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5_Существа/Creature_Нотик.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5_Существа/Creature_Нотик.md"
+              }
             }
           }
         ]
@@ -189,25 +185,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "87484d71f18250e9",
+  "active": "f3cde98414c56098",
   "lastOpenFiles": [
     "1_Эпизоды/Episode_2_Фандалин.md",
-    "9_Файлы/Карта_Фандалин.png",
-    "0_Помощь/Help_Episode_2.md",
-    "5_Существа/Creature_Скелет.md",
-    "5_Существа/Creature_Красноклейменный_головорез.md",
-    "4_NPC/NPC_Сильдар_Холлвинтер.md",
-    "9_Файлы/Карта_Убежище_Красноклейменных.png",
     "5_Существа/Creature_Нотик.md",
+    "0_Помощь/Help_Episode_2.md",
+    "5_Существа/Creature_Красноклейменный_головорез.md",
+    "4_NPC/NPC_Ярно_Альбрека.md",
+    "4_NPC/NPC_Сильдар_Холлвинтер.md",
+    "9_Файлы/Карта_Фандалин.png",
+    "0_Помощь/Help_Начало.md",
     "5_Существа/Creature_Гоблин.md",
+    "9_Файлы/Саундтрек_Город.mp3",
+    "5_Существа/Creature_Скелет.md",
+    "9_Файлы/Карта_Убежище_Красноклейменных.png",
     "5_Существа/Creature_Молодой_зеленый_дракон.md",
     "9_Файлы/Картинка_Нотик.jpg",
     "0_Помощь/Help_Episode_1.md",
@@ -223,7 +222,6 @@
     "4_NPC/NPC_Веномфанг.md",
     "4_NPC/NPC_Грол.md",
     "4_NPC/NPC_Гандрен_Роксикер.md",
-    "4_NPC/NPC_Ярно_Альбрека.md",
     "8_Разное/Карта_гоблинской_засады.jpg",
     "8_Разное/Карта_Гоблинская_засада.jpg",
     "4_NPC/NPC_Сестра_Гараэль.md",
@@ -232,7 +230,6 @@
     "9_Файлы",
     "5_Существа/Creature_Волк.md",
     "5_Существа/Creature_Багбир(Медвежатник).md",
-    "0_Помощь/Help_Начало.md",
     "0_Помощь/Help_Бои.md",
     "4_NPC/NPC_Линен_Грейвинд.md",
     "2_Локации/Location_Невервинтер.md",
@@ -240,7 +237,6 @@
     "6_Предметы",
     "5_Существа",
     "4_NPC",
-    "3_Квесты",
-    "2_Локации"
+    "3_Квесты"
   ]
 }
